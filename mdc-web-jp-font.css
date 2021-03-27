@@ -8,7 +8,7 @@ Copyright (C) 2021 Piano Nekomiya
 @charset "utf-8";
 
 /* 変数定義 */
-* {
+:root, html, body, * {
     --mdc-typography-font-family: "Roboto", "Noto Sans JP", sans-serif;
     --mdc-typography-headline1-font-family: "Roboto", "Noto Sans JP", sans-serif;
     --mdc-typography-headline2-font-family: "Roboto", "Noto Sans JP", sans-serif;
