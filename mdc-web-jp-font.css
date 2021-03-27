@@ -1,0 +1,26 @@
+/*
+Material Design Conponents Web Japanese Font
+Auther: Piano Nekomiya
+Twitter: @PianoCat1010
+Copyright (C) 2021 Piano Nekomiya
+*/
+
+@charset "utf-8";
+
+/* 変数定義 */
+* {
+    --mdc-typography-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-headline1-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-headline2-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-headline3-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-headline4-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-headline5-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-headline6-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-subtitle1-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-subtitle2-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-body1-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-body2-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-caption-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-button-font-family: "Roboto", "Noto Sans JP", sans-serif;
+    --mdc-typography-overline-font-family: "Roboto", "Noto Sans JP", sans-serif;
+}
